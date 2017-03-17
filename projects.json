@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "created": 1485174060,
+      "title": "Checkbox",
+      "type": "Feature",
+      "responsible": "Cindy",
+      "modified": 1492560000
+    },  
+    {
+      "created": 1485145920,
+      "title": "CSS",
+      "type": "Bug",
+      "responsible": "David",
+      "modified": 1491177600
+    },
+    {
+      "created": 1485147480,
+      "title": "HTML",
+      "type": "Bug",
+      "responsible": "Dan",
+      "modified": 1486425600
+    },
+    {
+      "created": 1485139860,
+      "title": "CSS",
+      "type": "Bug",
+      "responsible": "Cindy",
+      "modified": 1486944000
+    },
+    {
+      "created": 1485142740,
+      "title": "Billing",
+      "type": "Feature",
+      "responsible": "Dan",
+      "modified": 1487203200
+    }
+  ]
+}
